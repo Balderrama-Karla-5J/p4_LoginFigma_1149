@@ -42,7 +42,7 @@ class Login extends StatelessWidget {
                 color: Colors.grey,
               ),
             ),
-            const SizedBox(height: 180),
+            const SizedBox(height: 230),
 
             // Login button
             SizedBox(
